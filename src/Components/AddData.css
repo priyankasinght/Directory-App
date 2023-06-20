@@ -1,0 +1,42 @@
+.table-container {
+    border-collapse: collapse;
+    width: 100%;
+    padding: 20px; /* Add padding */
+    margin-left: 25px; 
+    margin-right: 25px; 
+  }
+  
+  .table-container th,
+  .table-container td {
+    padding: 8px;
+    border: 1px solid black;
+  }
+  
+  .table-container th {
+    background-color: blue;
+    color: white;
+  }
+
+  .action-buttons {
+    display: flex;
+    gap: 8px;
+  }
+  
+  .add-button {
+    margin-top: 8px;
+    background-color: blue;
+    color: white;
+    padding: 5px 30px;
+  }
+  
+  .add-button-container {
+    position: relative;
+    margin-left: 25px; 
+    margin-right: 25px; 
+  }
+  
+  .blue-background-white-text {
+    background-color: blue;
+    color: white;
+  }
+  

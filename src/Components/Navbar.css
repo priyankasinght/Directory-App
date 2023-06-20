@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-container {
+    color: white;
+    margin-left: 3rem;
+    margin-bottom: 10px;
+}
+
+h2 {
+    background-color: blue;
+    color: white;
+    margin-bottom: 2rem;
+    text-align: center;
+    padding: 10px 20px;
+
+}
+
+.navbar-container ul {
+    display: flex;
+    list-style-type: none;
+
+
+}
+
+.navbar-container li {
+    padding: 5px;
+    margin-right: 10px;
+    background-color: blue;
+}
+
+.navbar-container a {
+    text-decoration: none;
+    color: white;
+}
